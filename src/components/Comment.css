@@ -1,0 +1,35 @@
+.odd {
+  xbackground-color: #f8f8f8;
+}
+
+.even {
+  xbackground-color: #f0f0f0;
+}
+
+.comment {
+  font-size: 13px;
+}
+
+.comment .date {
+  color: #f22;
+  padding-top: 4px;
+  padding-bottom: 8px;
+  text-align: right;
+  dispay: inline;
+  font-size: 75%;
+}
+.comment .name {
+  font-weight: bold;
+  font-size: 120%;
+  dispay: inline;
+}
+.comment-info {
+  display: table-cell;
+  vertical-align: top;
+  width: 100%;
+}
+
+.comment .text {
+  padding-top: 8px;
+  line-height: 1.5em;
+}
